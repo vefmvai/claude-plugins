@@ -1,0 +1,19 @@
+{
+  "name": "vefmvai",
+  "owner": {
+    "name": "Vasiliy"
+  },
+  "description": "Плагины Claude Code от vefmvai.",
+  "plugins": [
+    {
+      "name": "loreground",
+      "source": {
+        "source": "github",
+        "repo": "vefmvai/loreground"
+      },
+      "description": "Стандарт памяти агента со слоем доверия к фактам: провенанс, вычисляемый консенсус, защита от выдуманных источников. Валидатор базы + навык разбора сессий.",
+      "license": "MIT",
+      "keywords": ["memory", "knowledge-base", "provenance", "markdown", "obsidian"]
+    }
+  ]
+}
